@@ -1,0 +1,36 @@
+{
+  "name": "ahoy",
+  "version": "1.0.0",
+  "description": "Deploys Tadah images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "ufw": "node ufw.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tadah-dev/ahoy.git"
+  },
+  "author": "Tadah",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/tadah-dev/ahoy/issues"
+  },
+  "homepage": "https://github.com/tadah-dev/ahoy#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chalk": "^5.0.0",
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "humanize-duration": "^3.27.1",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.6",
+    "safe-compare": "^1.1.4",
+    "split": "^1.0.1",
+    "uuid": "^8.3.2",
+    "winston": "^3.3.3",
+    "zero-fill": "^2.2.4"
+  }
+}
