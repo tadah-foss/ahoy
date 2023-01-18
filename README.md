@@ -37,4 +37,4 @@ See example-workflow.yml as an example. You need to then add `AHOY_HOSTNAME`, `A
 ## License
 ~~Copyright Tadah 2021. All rights reserved~~
 
-Licensed under the GNU Affero General Public License v3.0. A copy of it [has been included](https://github.com/tadah-foss/ahoy/blob/trunk/LICENSE). This repository was archived in its original state on January 17th, 2023, with the last modification being made on December 17th, 2021.
+Licensed under the GNU Affero General Public License v3.0. A copy of it [has been included](https://github.com/tadah-foss/ahoy/blob/trunk/LICENSE). This repository was archived in its original state on January 17th, 2023. The last modification to the original repository was on December 17th, 2021.
